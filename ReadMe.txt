@@ -50,7 +50,7 @@ This system ensures that:
 * Persistence of generated questionnaires and questions
 * Full verification via pgAdmin and Swagger UI
 
-### ❌ Not in Scope (Yet)
+### Not in Scope (Yet)
 
 * Real user-facing frontend
 * Live chat / email trigger engine
